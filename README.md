@@ -53,8 +53,3 @@ A simple Flutter app to track your daily expenses, categorize them, and visualiz
 
 - Flutter SDK (3.x recommended)
 - Dart
-
-
----
-
-*Made with Flutter ❤️*
